@@ -28,8 +28,11 @@ I'm always open to collaborating on innovative projects, contributing to open so
 | **Contact** | **bhattsanchit4@gmail.com** |
 | **Location** | Lucknow, Uttar Pradesh, India |
 | **Fun Fact** | Passionate about building scalable software and continuously exploring new technologies. |
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_bhatt0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-sharma-329929328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhattsanchit4@gmail.com) 
+
+## 🌐 Connect With Me
+- **LinkedIn:** [linkedin.com/in/aayush-sharma-329929328](https://linkedin.com/in/aayush-sharma-329929328)
+- **Instagram:** [instagram.com/ayush_bhatt0001](https://instagram.com/ayush_bhatt0001)
+- **Email:** [bhattsanchit4@gmail.com](mailto:bhattsanchit4@gmail.com)
 ## 💻 Tech Stack
 
 | Category | Technologies |
