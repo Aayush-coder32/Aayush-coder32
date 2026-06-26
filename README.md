@@ -1,16 +1,33 @@
-# 💫 Hi 👋, I'm Aayush Sharma
-**A passionate Cloud Engineer || DevOps Engineer || Full Stack Developer **
+#  Hi, I am Aayush Sharma
+### Software Engineer | Java Developer | Cloud & DevOps | Open Source Enthusiast
+## 🚀 About Me
 
-Email Me 👉 ✉️ **bhattsanchit4@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I'm passionate about building **scalable software**, **cloud-native applications**, and **intelligent systems** that solve real-world problems.
 
-- 🔭 **I’m currently working on:** DSA problems
-- 🌱 **I’m currently learning:** DSA with java
-- 👯 **I’m looking to collaborate on:** Google Cloud 
-- 🤔 **I’m looking for help with:** Software Intern
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bhattsanchit4@gmail.com
-- 😄 **Pronouns:** Aayush Sharma
-- ⚡ **Fun fact:** GitHub was originally called “Logical Awesome” internally
+### Areas of Interest
+- 💻 Full Stack Development
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 🌐 Internet of Things (IoT)
+- 🏗️ Software Engineering
+
+
+## 📫 Get in Touch
+
+I'm always open to collaborating on innovative projects, contributing to open source, discussing technology, or exploring internship and software engineering opportunities.
+
+## 📌 Professional Summary
+
+| Category | Details |
+|----------|---------|
+| **Currently Working On** | Solving Data Structures & Algorithms (DSA) problems |
+| **Currently Learning** | Advanced Java, Data Structures & Algorithms, Cloud Computing |
+| **Open to Collaborate** | Google Cloud, Open Source, Full Stack Development, DevOps Projects |
+| **Seeking Opportunities** | Software Engineering Internships & Cloud/DevOps Roles |
+| **Areas of Expertise** | Java, Full Stack Development, Cloud Computing, DevOps, Git & GitHub |
+| **Contact** | **bhattsanchit4@gmail.com** |
+| **Location** | Lucknow, Uttar Pradesh, India |
+| **Fun Fact** | Passionate about building scalable software and continuously exploring new technologies. |
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_bhatt0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-sharma-329929328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhattsanchit4@gmail.com) 
 
