@@ -12,6 +12,12 @@
 
 <br><br><br><br><br><br>
 
+
+
+<p align="right">
+  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+</p>
+
 ## 🚀 Areas of Interest
 
 - ☕ Java & Spring Boot Development
@@ -21,10 +27,6 @@
 - ⚙️ DevOps & Docker
 - 🏗️ Software Engineering
 - 📈 Scalable System Design
-
-<p align="right">
-  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
-</p>
 
 </td>
 
