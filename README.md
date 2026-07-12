@@ -8,19 +8,15 @@
 
 </div>
 
-<br><br><br><br><br>
+<td width="30%" valign="top">
 
-<img align="right" src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+<br><br><br><br><br><br>
 
-## 🚀 Areas of Interest
+<p align="right">
+  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+</p>
 
-- ☕ Java & Spring Boot Development
-- 🌐 Backend Engineering
-- 🗄️ MongoDB & Database Systems
-- ☁️ Cloud Computing
-- ⚙️ DevOps & Docker
-- 🏗️ Software Engineering
-- 📈 Scalable System Design
+</td>
 
 
 ## 📫 Get in Touch
