@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+Scalable+Backend+Applications...;Java+%7C+Spring+Boot+%7C+MongoDB+%7C+REST+APIs;Backend+Development+%7C+Microservices+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 ### 🚀 Areas of Interest
 - ☕ Java & Spring Boot Development
 - 🌐 Backend Engineering
