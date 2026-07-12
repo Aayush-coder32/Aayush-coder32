@@ -8,13 +8,9 @@
 
 </div>
 
+<img align="right" src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+
 ## 🚀 Areas of Interest
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 🚀 Areas of Interest
 
 - ☕ Java & Spring Boot Development
 - 🌐 Backend Engineering
@@ -23,16 +19,6 @@
 - ⚙️ DevOps & Docker
 - 🏗️ Software Engineering
 - 📈 Scalable System Design
-
-</td>
-
-<td width="40%" align="right" valign="top">
-
-<img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
-
-</td>
-</tr>
-</table>
 
 
 ## 📫 Get in Touch
