@@ -10,8 +10,6 @@
 
 ## 🚀 Areas of Interest
 <img align="right" src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
-<br> <br>
-
 - ☕ Java & Spring Boot Development
 - 🌐 Backend Engineering
 - 🗄️ MongoDB & Database Systems
