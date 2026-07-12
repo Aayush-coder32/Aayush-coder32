@@ -52,9 +52,3 @@ I'm always open to collaborating on innovative projects, contributing to open so
 | **Computer Vision** | OpenCV |
 | **CMS & Platforms** | WordPress |
 | **Tools & Design** | Git, GitHub, Canva |
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aayush-coder32&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayush-coder32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-coder32&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
