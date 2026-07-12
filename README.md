@@ -10,9 +10,9 @@
 
 ## 🚀 Areas of Interest
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
 ### 🚀 Areas of Interest
 
@@ -26,8 +26,10 @@
 
 </td>
 
-<td width="45%" align="left">
-  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+<td width="40%" align="right" valign="top">
+
+<img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
+
 </td>
 </tr>
 </table>
