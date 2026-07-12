@@ -8,10 +8,9 @@
 
 </div>
 
+## 🚀 Areas of Interest
 <img align="right" src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
 <br> <br>
-
-## 🚀 Areas of Interest
 
 - ☕ Java & Spring Boot Development
 - 🌐 Backend Engineering
