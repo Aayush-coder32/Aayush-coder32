@@ -1,6 +1,9 @@
 #  Hi, I am Aayush Sharma
 ### Software Engineer | Java Developer | Cloud & DevOps | Open Source Enthusiast
 ## 🚀 About Me
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Aayush-coder32&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 
 I'm passionate about building **scalable software**, **cloud-native applications**, and **intelligent systems** that solve real-world problems.
 
