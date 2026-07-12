@@ -26,10 +26,8 @@
 
 </td>
 
-<td width="45%" align="center">
-
-<img src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
-
+<td width="35%" align="left">
+  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
 </td>
 </tr>
 </table>
