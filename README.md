@@ -8,15 +8,9 @@
 
 </div>
 
-<td width="30%" valign="top">
-
-<br><br><br><br><br><br>
-
-
-
-<p align="right">
-  <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
-</p>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 ## 🚀 Areas of Interest
 
@@ -30,6 +24,13 @@
 
 </td>
 
+<td width="35%" valign="middle" align="center">
+
+<img src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
+
+</td>
+</tr>
+</table>
 
 ## 📫 Get in Touch
 
