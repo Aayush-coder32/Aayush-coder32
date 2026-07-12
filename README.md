@@ -8,8 +8,9 @@
 
 </div>
 
+<br><br><br><br><br>
+
 <img align="right" src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
-<br> <br> <br>
 
 ## 🚀 Areas of Interest
 
