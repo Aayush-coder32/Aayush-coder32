@@ -8,9 +8,10 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="middle">
+
+<td width="65%" valign="top">
 
 ## 🚀 Areas of Interest
 
@@ -24,11 +25,12 @@
 
 </td>
 
-<td width="35%" valign="middle" align="center">
+<td width="35%" valign="top" align="right">
 
 <img src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
 
 </td>
+
 </tr>
 </table>
 
