@@ -26,7 +26,7 @@
 
 </td>
 
-<td width="35%" align="left">
+<td width="45%" align="left">
   <img src="Assets/illustration.png" width="300" alt="Developer Illustration"/>
 </td>
 </tr>
