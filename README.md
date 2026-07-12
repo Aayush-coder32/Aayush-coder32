@@ -1,8 +1,10 @@
 <div align="center">
+
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Aayush-coder32&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Aayush-coder32&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Java%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems...;Python+%7C+TensorFlow+%7C+Scikit-learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+Scalable+Backend+Applications...;Java+%7C+Spring+Boot+%7C+MongoDB+%7C+REST+APIs;Backend+Development+%7C+Microservices+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 ### Areas of Interest
