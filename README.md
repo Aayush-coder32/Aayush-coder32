@@ -8,10 +8,7 @@
 
 </div>
 
-<table width="100%">
-<tr>
-
-<td width="65%" valign="top">
+<img align="right" src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
 
 ## 🚀 Areas of Interest
 
@@ -22,17 +19,6 @@
 - ⚙️ DevOps & Docker
 - 🏗️ Software Engineering
 - 📈 Scalable System Design
-
-</td>
-
-<td width="35%" valign="top" align="right">
-
-<img src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
-
-</td>
-
-</tr>
-</table>
 
 ## 📫 Get in Touch
 
