@@ -5,9 +5,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Building+Modern+Full+Stack+Web+Applications...;Full+Stack+Developer+%7C+MERN+Stack+Developer;Web+Developer+%7C+Responsive+UI+%7C+REST+APIs)](https://git.io/typing-svg)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+Scalable+Backend+Applications...;Java+%7C+Spring+Boot+%7C+MongoDB+%7C+REST+APIs;Backend+Development+%7C+Microservices+%7C+System+Design)](https://git.io/typing-svg)
-
 </div>
 
 ## 🚀 Areas of Interest
