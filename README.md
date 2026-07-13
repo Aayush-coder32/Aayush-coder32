@@ -10,13 +10,13 @@
 ## 🚀 Areas of Interest
 <img align="right" src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
 
-- ☕ Java & Spring Boot Development
-- 🌐 Backend Engineering
-- 🗄️ MongoDB & Database Systems
+- 💻 Full Stack Development
+- ⚛️ MERN Stack Development
+- 🌐 Web Development
+- 🎨 Frontend Development
+- 🛠️ Backend Development
 - ☁️ Cloud Computing
-- ⚙️ DevOps & Docker
-- 🏗️ Software Engineering
-- 📈 Scalable System Design
+- 📱 Responsive UI/UX Design
 
 ## 📫 Get in Touch
 
