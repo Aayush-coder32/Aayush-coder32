@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Aayush-coder32&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -7,7 +7,7 @@
 
 </div>
 
-## 🚀 Areas of Interest
+## 🚀 Areas of Interest :
 <img align="right" src="Assets/illustration.png" width="320" alt="Developer Illustration"/>
 
 - 💻 Full Stack Development
@@ -18,11 +18,11 @@
 - ☁️ Cloud Computing
 - 📱 Responsive UI/UX Design
 
-## 📫 Get in Touch
+## 📫 Get in Touch :
 
 I'm always open to collaborating on innovative projects, contributing to open source, discussing technology, or exploring internship and software engineering opportunities.
 
-## 📌 Professional Summary
+## 📌 Professional Summary :
 
 | Category | Details |
 |----------|---------|
@@ -35,11 +35,11 @@ I'm always open to collaborating on innovative projects, contributing to open so
 | **Location** | Lucknow, Uttar Pradesh, India |
 | **Fun Fact** | Passionate about building scalable software and continuously exploring new technologies. |
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me :
 - **LinkedIn:** [linkedin.com/in/aayush-sharma-329929328](https://linkedin.com/in/aayush-sharma-329929328)
 - **Instagram:** [instagram.com/ayush_bhatt0001](https://instagram.com/ayush_bhatt0001)
 - **Email:** [bhattsanchit4@gmail.com](mailto:bhattsanchit4@gmail.com)
-## 💻 Tech Stack
+## 💻 Tech Stack :
 
 | Category | Technologies |
 | :-------- | :----------- |
@@ -51,4 +51,7 @@ I'm always open to collaborating on innovative projects, contributing to open so
 | **IoT & Embedded Systems** | Arduino |
 | **Computer Vision** | OpenCV |
 | **CMS & Platforms** | WordPress |
-| **Tools & Design** | Git, GitHub, Canva |
+| **Tools & Design** | Git, GitHub, Canva | -->
+
+
+
