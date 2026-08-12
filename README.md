@@ -18,6 +18,11 @@
 - ☁️ Cloud Computing
 - 📱 Responsive UI/UX Design
 
+## LeetCode Achievements:
+<p align="center">
+  <img src="Assets/Screenshot%202026-08-12%20231108.png" alt="Kaggle Medals and Badges" width="800">
+</p>
+
 ## 📫 Get in Touch :
 
 I'm always open to collaborating on innovative projects, contributing to open source, discussing technology, or exploring internship and software engineering opportunities.
